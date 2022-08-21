@@ -13,6 +13,16 @@ HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
 
+# > Disney
+HOST-SUFFIX,disney-plus.net,新加坡自动
+HOST-SUFFIX,disney-portal.my.onetrust.com,新加坡自动
+HOST-SUFFIX,disney.demdex.net,新加坡自动
+HOST-SUFFIX,disneyplus.bn5x.net,新加坡自动
+HOST-SUFFIX,disneyplus.com,新加坡自动
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,新加坡自动
+HOST-SUFFIX,disneystreaming.com,新加坡自动
+USER-AGENT,Disney*,新加坡自动
+USER-AGENT,Disney+*,新加坡自动
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
@@ -1853,13 +1863,6 @@ HOST-SUFFIX,dazn-api.com,海外服务
 HOST-SUFFIX,dazn.com,海外服务
 HOST-SUFFIX,dazndn.com,海外服务
 HOST-SUFFIX,deezer.com,海外服务
-HOST-SUFFIX,disney-plus.net,海外服务
-HOST-SUFFIX,disney-portal.my.onetrust.com,海外服务
-HOST-SUFFIX,disney.demdex.net,海外服务
-HOST-SUFFIX,disneyplus.bn5x.net,海外服务
-HOST-SUFFIX,disneyplus.com,海外服务
-HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,海外服务
-HOST-SUFFIX,disneystreaming.com,海外服务
 HOST-SUFFIX,dmc.nico,海外服务
 HOST-SUFFIX,dmm-extension.com,海外服务
 HOST-SUFFIX,dmm.co.jp,海外服务
@@ -2033,8 +2036,6 @@ USER-AGENT,BBCBeacon*,海外服务
 USER-AGENT,BBCiPlayer*,海外服务
 USER-AGENT,DAZN*,海外服务
 USER-AGENT,Deezer*,海外服务
-USER-AGENT,Disney*,海外服务
-USER-AGENT,Disney+*,海外服务
 USER-AGENT,FOX%20NOW*,海外服务
 USER-AGENT,FOXPlus*,海外服务
 USER-AGENT,HBO%20GO%20PROD%20HKG*,海外服务
